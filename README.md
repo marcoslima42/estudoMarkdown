@@ -15,7 +15,7 @@ Git é um sistema de controle de versão distribuído gratuito e de código aber
 O git pode ser baixado clicando <a href="https://git-scm.com/">AQUI</a>
 
 
-<img src="http://octodex.github.com/images/droctocat.png"  target _"blank">width="300" height="300">
+<img src="http://octodex.github.com/images/droctocat.png" width="300" height="300">
 
 #  não odernada Lista ordenada
 * git init = cria um repositoprio ou inicializa um existente
