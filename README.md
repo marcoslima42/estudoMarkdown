@@ -26,4 +26,16 @@ O git pode ser baixado clicando <a href="https://git-scm.com/">AQUI</a>
 * git remote = Gerenciar conjunto de repositórios ratreados 
 * git push = Atualizar referência remotas junto com objetos associados
 
+### Processo prático 
+1. Acessar o repositório local e executar o git bash (terminal git) dentro do repositório
+2. No git bash executar o comando git init
+3. Executar o comando git add.
+4. Executar o comando git commit -m "first commit"
+5. Após a criação do repositório remoto no github, executar o comando git branch -M main 
+6. Executar o comando git remote add origin "**URL do repositório remoto**"
+7. Executar o comando git push -u origin main
+
+**OBSERVAÇÃO**
+Para a realização dos procedimentos anteriores é necessário a autenticação do usuário do GitHub no terminaL GIT (user.name, user.email, token)
+
 
