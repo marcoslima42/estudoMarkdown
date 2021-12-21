@@ -1,4 +1,4 @@
-# Estudos MD
+# Estudo Markdown
 *Esse texto está em itálico*
 
 **Esse texto esta em negrito**
@@ -16,3 +16,14 @@ O git pode ser baixado clicando <a href="https://git-scm.com/">AQUI</a>
 
 
 <img src="http://octodex.github.com/images/droctocat.png"  target _"blank">width="300" height="300">
+
+#  não odernada Lista ordenada
+* git init = cria um repositoprio ou inicializa um existente
+* git add =  Adiciona o conteúdo do arquivo ao índice
+* git status = Mostra o status da árvore de trabalho
+* git commit = Grava alterações no repositório
+* git branch = Listar, criar ou excluir branches
+* git remote = Gerenciar conjunto de repositórios ratreados 
+* git push = Atualizar referência remotas junto com objetos associados
+
+
