@@ -13,3 +13,4 @@ Git é um sistema de controle de versão distribuído gratuito e de código aber
 <img src="https://git-scm.com/images/branching-illustration@2x.png" width="450" height="300">
 
 O git pode ser baixado clicando <a href="https://git-scm.com/">AQUI</a>
+<img src="http://octodex.github.com/images/droctocat.png" width="300" height="300">
