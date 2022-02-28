@@ -4,6 +4,7 @@
 **Esse texto esta em negrito**
 ## O que é o GIT
 Tag HTML
+Inserindo uma imagem!
 
 <img 
 alt="Miranha apenas"
